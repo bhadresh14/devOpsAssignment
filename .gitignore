@@ -16,3 +16,4 @@ target/
 Thumbs.db
 
 *.log
+.env
